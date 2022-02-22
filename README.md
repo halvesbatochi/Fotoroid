@@ -24,7 +24,7 @@
     * UIActivityIndicatorView
     * CoreImage
     * Threads
-   >Toda alteração gráfica que for solicitada deve ser realizada dentro da main thread, obrigatoriamente.
+       * Toda alteração gráfica que for solicitada deve ser realizada dentro da main thread, obrigatoriamente.
 
     
 ## Snapshots
